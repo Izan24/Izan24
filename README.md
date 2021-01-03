@@ -4,7 +4,7 @@
   ![](https://komarev.com/ghpvc/?username=Izan24&color=f590df)
   
   
-<h2 align="Projects">Skills</h2>
+<h2 align="center">Projects</h2>
 
 <p align="center">
   <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/c-programming.png' height='75px'>
