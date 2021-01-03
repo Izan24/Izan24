@@ -15,6 +15,7 @@
   <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/js-programming.png' height='75px'>
 </p>
 
-# Popular repositories
+<h2 align="center">Popular Repositories</h2>
+
   
 
