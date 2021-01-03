@@ -1,5 +1,7 @@
+<!-- 
 <img align='right' src='https://raw.githubusercontent.com/Izan24/Izan24/main/decoration/studentDog.gif' width='20%'>
-<img align='left' src='https://raw.githubusercontent.com/Izan24/Izan24/main/decoration/sleepDog.gif' width='20%'>
+-->
+<img align='right' src='https://raw.githubusercontent.com/Izan24/Izan24/main/decoration/sleepDog.gif' width='20%'>
 
 
 # About me
