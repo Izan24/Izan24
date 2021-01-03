@@ -1,13 +1,11 @@
 # About me
-  💻Computer Engineering student at Mondragon University.
+  💻Computer Engineering student at Mondragon University.  
   
   ![](https://komarev.com/ghpvc/?username=Izan24&color=f590df)
   
 <!--  
 <h2 align="center">Projects</h2>
-<p align="center">
-
-</p>
+<p align="center"> </p>
 -->
 
   
