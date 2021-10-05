@@ -19,6 +19,9 @@
   <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/html-programming.png' height='75px'>
   <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/css-programming.png' height='75px'>
   <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/js-programming.png' height='75px'>
+  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/mysql.png' height='75px'>
+  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/psql.png' height='75px'>
+
 </p>
 
 <h2 align="center">Pinned Repositories</h2>
