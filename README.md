@@ -10,7 +10,6 @@
 <p align="center"> </p>
 -->
 
-  
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
@@ -22,7 +21,8 @@
   <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/js-programming.png' height='75px'>
 </p>
 
-<h2 align="center">Popular Repositories</h2>
+<h2 align="center">Pinned Repositories</h2>
+<p align="center">Take a look at my pinned repositories.</p>
 
   
 
