@@ -5,6 +5,8 @@
   
   - :man_technologist: Currently working as backend developer at Laboral Kutxa.
   
+  - :books: Learning React.js 
+  
   ![](https://komarev.com/ghpvc/?username=Izan24&color=f590df)
   
 <!--  
