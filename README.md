@@ -3,7 +3,7 @@
 # About me
   - :man_student: Computer Engineer - Mondragon University.
   
-  - :man_technologist: Currently working as backend developer at Laboral Kutxa.
+  - :man_technologist: Currently working as backend developer.
   
   - :books: Learning React.js 
   
