@@ -15,21 +15,48 @@
 -->
 
 <h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
+<p align="center">A summary of my programming skills.</p><br/>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/c-programming.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/java-programming.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/spring.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/hibernate.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/html-programming.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/css-programming.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/js-programming.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/mysql.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/psql.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/cs.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/NETCore.png' height='70px'>
-  <img src='https://raw.githubusercontent.com/Izan24/Izan24/main/skills/EFCore.png' height='70px'>
+  <span>Backend Development</span><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+  </a>
+</p>
+
+<p align="center">
+  <span>Frontend Development</span><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,sass,nodejs,npm,yarn,bun" />
+  </a>
+</p>
+
+<p align="center">
+  <span>Database</span><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
+<p align="center">
+  <span>Learned at University</span><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,spring,hibernate,jenkins,nginx,rabbitmq" />
+  </a>
+</p>
+
+<p align="center">
+  <span>NoteTaking</span><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,obsidian" />
+  </a>
+</p>
+
+<p align="center">
+  <span>IDE</span><br/><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse" />
+  </a>
 </p>
 
 <h2 align="center">Pinned Repositories</h2>
